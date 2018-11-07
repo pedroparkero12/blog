@@ -1,0 +1,17 @@
+.wrapper{
+    width: 100%;
+    min-height: 700px;
+    padding: 20px 50px;
+}
+
+.post-info{
+    margin: 0;
+    font-size: 14px;
+}
+
+.login-container{
+    border: solid #f6f6f6 1px;
+    border-radius: 5px;
+    padding: 50px 50px;
+    margin-top: 100px;
+}
